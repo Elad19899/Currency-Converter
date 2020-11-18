@@ -1,0 +1,1 @@
+Result{amount=42.24, activity=USD to ILS}
